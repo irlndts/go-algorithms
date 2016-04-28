@@ -1,9 +1,11 @@
 package algorithm
 
+/*
 import (
 	"fmt"
 	"math/rand"
 )
+*/
 
 var N int = 1000
 

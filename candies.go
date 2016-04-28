@@ -1,7 +1,7 @@
 // solution https://www.hackerrank.com/challenges/candies
 package algorithm
 
-import "fmt"
+//import "fmt"
 
 /*
 func main() {
